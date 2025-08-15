@@ -1,1 +1,5 @@
+langchain
 streamlit
+unstructured
+tiktoken
+faiss-cpu
