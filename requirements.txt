@@ -7,3 +7,4 @@ google-generativeai
 asyncio
 nest-asyncio
 langchain-community
+langchain-google-genai
