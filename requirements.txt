@@ -3,8 +3,7 @@ streamlit
 unstructured
 tiktoken
 faiss-cpu
-google.generativeai
+google-generativeai
 asyncio
 nest-asyncio
-pickle
-langchain_community
+langchain-community
